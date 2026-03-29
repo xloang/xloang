@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Zomium](zomium.xyz)
 
 <h3 align="left">Connect with me: 
-discord:xloang25</h3>
+discord: xloang25</h3>
 <p align="left">
 </p>
 
